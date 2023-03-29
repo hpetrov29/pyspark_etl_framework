@@ -1,0 +1,9 @@
+{
+    "spark_conf": {
+        "master": "local[3]",
+        "appName": "SparkSales"
+    },
+    "log": {
+        "level": null
+    }
+}
